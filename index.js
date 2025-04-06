@@ -14,7 +14,7 @@ const app = express();
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://kambazwebdev.netlify.app",
+  "https://mellifluous-kelpie-2c3d32.netlify.app",
 ];
 
 app.use(
