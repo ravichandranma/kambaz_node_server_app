@@ -18,7 +18,7 @@ const app = express();
 const isProduction = process.env.NODE_ENV === "production";
 const FRONTEND_ORIGINS = [
   "http://localhost:5173",
-  "https://a6--mellifluous-kelpie-2c3d32.netlify.app/"
+  "https://mellifluous-kelpie-2c3d32.netlify.app/"
 ];
 
 // ✅ Mongo Connection
